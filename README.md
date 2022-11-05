@@ -10,6 +10,7 @@ Intégrateur, Organisme, Entreprise ? Découvrez également le Feed Premium de C
 Vous avez une marque ? Surveillons la ensemble pour que vous soyez alertés en cas d'usurpation d'identité.
 
 
+
 Cassembly Radar est intégré dans notre pare-feu par intelligence artificielle C-Dome --> https://c-dome.com
 
 Pour en savoir plus sur notre offre, rendez-vous sur https://cassembly.fr/radar/
