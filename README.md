@@ -11,5 +11,5 @@ Vous avez une marque ? Surveillons la ensemble pour que vous soyez alertés en c
 
 
 
-Cassembly Radar est intégré dans notre pare-feu mobile par intelligence artificielle Pacem Snow et Pacem X --> https://pacem.global/pare-feu-mobile
+Pacem Radar est intégré dans notre pare-feu mobile par intelligence artificielle Pacem Snow et Pacem X --> https://pacem.global/pare-feu-mobile
 
